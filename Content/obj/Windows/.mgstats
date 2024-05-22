@@ -1,3 +1,5 @@
 Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
-"C:/Users/jcwil/source/repos/platformGame/Content/player_idle.png","C:/Users/jcwil/source/repos/platformGame/Content/bin/Windows/player_idle.xnb","TextureProcessor","Texture2DContent",1351,45141,0,1162697
-"C:/Users/jcwil/source/repos/platformGame/Content/player_run.png","C:/Users/jcwil/source/repos/platformGame/Content/bin/Windows/player_run.xnb","TextureProcessor","Texture2DContent",2190,49237,0,0024357
+"C:/Users/jcwil/source/repos/platformGame/Content/player_double_jump.png","C:/Users/jcwil/source/repos/platformGame/Content/bin/Windows/player_double_jump.xnb","TextureProcessor","Texture2DContent",1898,24661,0,1139305
+"C:/Users/jcwil/source/repos/platformGame/Content/player_fall.png","C:/Users/jcwil/source/repos/platformGame/Content/bin/Windows/player_fall.xnb","TextureProcessor","Texture2DContent",759,4181,0,0014395
+"C:/Users/jcwil/source/repos/platformGame/Content/player_jump.png","C:/Users/jcwil/source/repos/platformGame/Content/bin/Windows/player_jump.xnb","TextureProcessor","Texture2DContent",761,4181,0,0015366
+"C:/Users/jcwil/source/repos/platformGame/Content/tile_map.png","C:/Users/jcwil/source/repos/platformGame/Content/bin/Windows/tile_map.xnb","TextureProcessor","Texture2DContent",1759,30805,0,0021831

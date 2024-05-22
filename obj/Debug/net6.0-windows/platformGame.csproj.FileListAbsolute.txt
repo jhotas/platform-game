@@ -38,3 +38,8 @@ C:\Users\jcwil\source\repos\platformGame\obj\Debug\net6.0-windows\ref\platformGa
 C:\Users\jcwil\source\repos\platformGame\bin\Debug\net6.0-windows\Content\Idle (32x32).xnb
 C:\Users\jcwil\source\repos\platformGame\bin\Debug\net6.0-windows\Content\player_idle.xnb
 C:\Users\jcwil\source\repos\platformGame\bin\Debug\net6.0-windows\Content\player_run.xnb
+C:\Users\jcwil\source\repos\platformGame\obj\Debug\net6.0-windows\platformGame.sourcelink.json
+C:\Users\jcwil\source\repos\platformGame\bin\Debug\net6.0-windows\Content\player_fall.xnb
+C:\Users\jcwil\source\repos\platformGame\bin\Debug\net6.0-windows\Content\player_jump.xnb
+C:\Users\jcwil\source\repos\platformGame\bin\Debug\net6.0-windows\Content\player_double_jump.xnb
+C:\Users\jcwil\source\repos\platformGame\bin\Debug\net6.0-windows\Content\tile_map.xnb
