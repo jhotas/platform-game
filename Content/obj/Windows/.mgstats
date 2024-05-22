@@ -1,0 +1,3 @@
+Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"C:/Users/jcwil/source/repos/platformGame/Content/player_idle.png","C:/Users/jcwil/source/repos/platformGame/Content/bin/Windows/player_idle.xnb","TextureProcessor","Texture2DContent",1351,45141,0,1162697
+"C:/Users/jcwil/source/repos/platformGame/Content/player_run.png","C:/Users/jcwil/source/repos/platformGame/Content/bin/Windows/player_run.xnb","TextureProcessor","Texture2DContent",2190,49237,0,0024357
