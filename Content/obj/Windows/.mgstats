@@ -1,5 +1,11 @@
 Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
-"C:/Users/jcwil/source/repos/platformGame/Content/player_double_jump.png","C:/Users/jcwil/source/repos/platformGame/Content/bin/Windows/player_double_jump.xnb","TextureProcessor","Texture2DContent",1898,24661,0,1139305
-"C:/Users/jcwil/source/repos/platformGame/Content/player_fall.png","C:/Users/jcwil/source/repos/platformGame/Content/bin/Windows/player_fall.xnb","TextureProcessor","Texture2DContent",759,4181,0,0014395
-"C:/Users/jcwil/source/repos/platformGame/Content/player_jump.png","C:/Users/jcwil/source/repos/platformGame/Content/bin/Windows/player_jump.xnb","TextureProcessor","Texture2DContent",761,4181,0,0015366
-"C:/Users/jcwil/source/repos/platformGame/Content/tile_map.png","C:/Users/jcwil/source/repos/platformGame/Content/bin/Windows/tile_map.xnb","TextureProcessor","Texture2DContent",1759,30805,0,0021831
+"C:/Users/jcwil/source/repos/platformGame/Content/enemy_sprite.png","C:/Users/jcwil/source/repos/platformGame/Content/bin/Windows/enemy_sprite.xnb","TextureProcessor","Texture2DContent",1538,65621,0,1166325
+"C:/Users/jcwil/source/repos/platformGame/Content/Fonts.spritefont","C:/Users/jcwil/source/repos/platformGame/Content/bin/Windows/Fonts.xnb","FontDescriptionProcessor","SpriteFontContent",2071,37919,0,0885568
+"C:/Users/jcwil/source/repos/platformGame/Content/menu_background.jpg","C:/Users/jcwil/source/repos/platformGame/Content/bin/Windows/menu_background.xnb","TextureProcessor","Texture2DContent",450835,4300885,0,121615
+"C:/Users/jcwil/source/repos/platformGame/Content/menu_start_button.png","C:/Users/jcwil/source/repos/platformGame/Content/bin/Windows/menu_start_button.xnb","TextureProcessor","Texture2DContent",207,1933,0,003259
+"C:/Users/jcwil/source/repos/platformGame/Content/player_double_jump.png","C:/Users/jcwil/source/repos/platformGame/Content/bin/Windows/player_double_jump.xnb","TextureProcessor","Texture2DContent",1898,24661,0,0029438
+"C:/Users/jcwil/source/repos/platformGame/Content/player_fall.png","C:/Users/jcwil/source/repos/platformGame/Content/bin/Windows/player_fall.xnb","TextureProcessor","Texture2DContent",759,4181,0,00173
+"C:/Users/jcwil/source/repos/platformGame/Content/player_idle.png","C:/Users/jcwil/source/repos/platformGame/Content/bin/Windows/player_idle.xnb","TextureProcessor","Texture2DContent",1351,45141,0,0024144
+"C:/Users/jcwil/source/repos/platformGame/Content/player_jump.png","C:/Users/jcwil/source/repos/platformGame/Content/bin/Windows/player_jump.xnb","TextureProcessor","Texture2DContent",761,4181,0,0017549
+"C:/Users/jcwil/source/repos/platformGame/Content/player_run.png","C:/Users/jcwil/source/repos/platformGame/Content/bin/Windows/player_run.xnb","TextureProcessor","Texture2DContent",2190,49237,0,0025934
+"C:/Users/jcwil/source/repos/platformGame/Content/tile_map.png","C:/Users/jcwil/source/repos/platformGame/Content/bin/Windows/tile_map.xnb","TextureProcessor","Texture2DContent",1759,30805,0,0030243

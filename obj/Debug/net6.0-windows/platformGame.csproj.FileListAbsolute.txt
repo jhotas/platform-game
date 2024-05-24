@@ -43,3 +43,10 @@ C:\Users\jcwil\source\repos\platformGame\bin\Debug\net6.0-windows\Content\player
 C:\Users\jcwil\source\repos\platformGame\bin\Debug\net6.0-windows\Content\player_jump.xnb
 C:\Users\jcwil\source\repos\platformGame\bin\Debug\net6.0-windows\Content\player_double_jump.xnb
 C:\Users\jcwil\source\repos\platformGame\bin\Debug\net6.0-windows\Content\tile_map.xnb
+C:\Users\jcwil\source\repos\platformGame\bin\Debug\net6.0-windows\Content\enemy_sprite.xnb
+C:\Users\jcwil\source\repos\platformGame\bin\Debug\net6.0-windows\Content\Fonts.xnb
+C:\Users\jcwil\source\repos\platformGame\bin\Debug\net6.0-windows\Content\menu_background.xnb
+C:\Users\jcwil\source\repos\platformGame\bin\Debug\net6.0-windows\Content\menu_start_button.xnb
+C:\Users\jcwil\source\repos\platformGame\bin\Debug\net6.0-windows\Content\pixelFont.xnb
+C:\Users\jcwil\source\repos\platformGame\bin\Debug\net6.0-windows\Content\trap_off.xnb
+C:\Users\jcwil\source\repos\platformGame\bin\Debug\net6.0-windows\Content\trap_on.xnb

@@ -1,32 +1,31 @@
 # Meu Jogo de Plataforma em Pixel Art
 
-Bem-vindo ao meu projeto de jogo de plataforma em Pixel Art desenvolvido com o MonoGame!
+Este é um simples jogo de plataforma desenvolvido em C# usando o framework MonoGame.
 
 ## Descrição
 
-Este é um jogo de plataforma em 2D desenvolvido em C# com o framework MonoGame. O objetivo é criar um ambiente divertido e desafiador onde o jogador pode explorar níveis cheios de obstáculos, inimigos e segredos.
+O jogo apresenta um jogador que pode se mover para a esquerda e para a direita, pular e interagir com inimigos. O objetivo é evitar obstáculos e derrotar inimigos para marcar pontos.
 
 ## Funcionalidades Principais
 
-- Controles simples e responsivos.
-- Mecânicas de plataforma clássicas, como pular, correr e escalar.
-- Gráficos em Pixel Art para uma estética retrô.
-- Vários níveis com diferentes desafios e temas.
-- Chefes épicos para enfrentar.
+Movimentação do jogador: O jogador pode se mover para a esquerda e para a direita usando as teclas de seta.
+Pulo: O jogador pode pular usando a tecla de seta para cima.
+Animações: O jogo inclui animações para o jogador, incluindo corrida, pulo e queda.
+Colisões: O jogo detecta colisões entre o jogador e o ambiente, bem como entre o jogador e os inimigos.
+Pontuação: O jogador ganha pontos ao derrotar inimigos.
+
 
 ## Instalação
 
-1. Clone este repositório em sua máquina local.
-2. Certifique-se de ter o MonoGame instalado em seu sistema.
-3. Abra o projeto em sua IDE favorita (Visual Studio, Visual Studio Code, etc.).
-4. Compile e execute o projeto.
+Para executar o jogo, siga estas etapas:
 
-## Controles
-
-- Setas direcionais: Movimentação do personagem.
-- Tecla de espaço: Pular.
-- Tecla de controle esquerdo: Ataque especial (se aplicável).
-- Tecla de escape: Pausar o jogo.
+Clone este repositório em sua máquina local.
+Certifique-se de ter o MonoGame instalado.
+Abra o projeto na sua IDE preferida.
+Compile e execute o projeto.
+Controles
+Setas esquerda/direita: Mover o jogador para a esquerda/direita.
+Seta para cima: Fazer o jogador pular.
 
 ## Contribuição
 
@@ -34,4 +33,4 @@ Contribuições são bem-vindas! Sinta-se à vontade para abrir problemas ou env
 
 ## Licença
 
-Este projeto está licenciado sob a Licença MIT."# platform-game" 
+Este projeto está licenciado sob a Licença MIT.

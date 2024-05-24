@@ -4,6 +4,10 @@
   <Platform>Windows</Platform>
   <Config />
   <SourceFiles>
+    <File>C:/Users/jcwil/source/repos/platformGame/Content/enemy_sprite.png</File>
+    <File>C:/Users/jcwil/source/repos/platformGame/Content/Fonts.spritefont</File>
+    <File>C:/Users/jcwil/source/repos/platformGame/Content/menu_background.jpg</File>
+    <File>C:/Users/jcwil/source/repos/platformGame/Content/menu_start_button.png</File>
     <File>C:/Users/jcwil/source/repos/platformGame/Content/player_double_jump.png</File>
     <File>C:/Users/jcwil/source/repos/platformGame/Content/player_fall.png</File>
     <File>C:/Users/jcwil/source/repos/platformGame/Content/player_idle.png</File>
@@ -12,6 +16,10 @@
     <File>C:/Users/jcwil/source/repos/platformGame/Content/tile_map.png</File>
   </SourceFiles>
   <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
     <File xsi:nil="true" />
     <File xsi:nil="true" />
     <File xsi:nil="true" />
