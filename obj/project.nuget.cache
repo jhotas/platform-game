@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "e0hlyYroppAD+iLY+4tfKtOaqugVhJWsKVpL/mmpitm+Kndm6z8f8D8J6HyTD9hHBqr0TT4iDttNYsNwzZRecA==",
+  "dgSpecHash": "RHuzeRGHVITxxgcG4VMDBDR5eM1UgLRBe/c/qYE14TEbF4vJqU2Jbn0gaJI6d+oXpg3YKqu5br5vi9IHR5gZow==",
   "success": true,
-  "projectFilePath": "C:\\Users\\jcwil\\source\\repos\\platformGame\\platformGame.csproj",
+  "projectFilePath": "C:\\Users\\jcwil\\source\\repos\\platformGame\\platformGame\\platformGame.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\jcwil\\.nuget\\packages\\libuv\\1.9.1\\libuv.1.9.1.nupkg.sha512",
     "C:\\Users\\jcwil\\.nuget\\packages\\microsoft.codeanalysis.analyzers\\1.1.0\\microsoft.codeanalysis.analyzers.1.1.0.nupkg.sha512",
@@ -124,11 +124,7 @@
     "C:\\Users\\jcwil\\.nuget\\packages\\system.xml.xdocument\\4.0.11\\system.xml.xdocument.4.0.11.nupkg.sha512",
     "C:\\Users\\jcwil\\.nuget\\packages\\system.xml.xmldocument\\4.0.1\\system.xml.xmldocument.4.0.1.nupkg.sha512",
     "C:\\Users\\jcwil\\.nuget\\packages\\system.xml.xpath\\4.0.1\\system.xml.xpath.4.0.1.nupkg.sha512",
-    "C:\\Users\\jcwil\\.nuget\\packages\\system.xml.xpath.xdocument\\4.0.1\\system.xml.xpath.xdocument.4.0.1.nupkg.sha512",
-    "C:\\Users\\jcwil\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.25\\microsoft.windowsdesktop.app.ref.6.0.25.nupkg.sha512",
-    "C:\\Users\\jcwil\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.25\\microsoft.netcore.app.ref.6.0.25.nupkg.sha512",
-    "C:\\Users\\jcwil\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.25\\microsoft.aspnetcore.app.ref.6.0.25.nupkg.sha512",
-    "C:\\Users\\jcwil\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.25\\microsoft.netcore.app.host.win-x64.6.0.25.nupkg.sha512"
+    "C:\\Users\\jcwil\\.nuget\\packages\\system.xml.xpath.xdocument\\4.0.1\\system.xml.xpath.xdocument.4.0.1.nupkg.sha512"
   ],
   "logs": []
 }

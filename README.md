@@ -1,4 +1,4 @@
-# Meu Jogo de Plataforma em Pixel Art
+# Jogo de Plataforma em Pixel Art
 
 Este é um simples jogo de plataforma desenvolvido em C# usando o framework MonoGame.
 
@@ -30,7 +30,3 @@ Seta para cima: Fazer o jogador pular.
 ## Contribuição
 
 Contribuições são bem-vindas! Sinta-se à vontade para abrir problemas ou enviar solicitações de pull.
-
-## Licença
-
-Este projeto está licenciado sob a Licença MIT.

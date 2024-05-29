@@ -7,6 +7,8 @@ namespace platformGame
 {
     public class Enemy
     {
+        private GraphicsDevice _graphicsDevice;
+        private Texture2D pixelTexture;
         public Texture2D _sprite;
         public Vector2 _position;
         private float _speed;
@@ -20,8 +22,6 @@ namespace platformGame
         private bool _movingRight = true;
         private int _movementDistance = 200; // Distância que o inimigo irá percorrer antes de mudar de direção
         private int _movedDistance = 0; // Distância percorrida desde a última mudança de direção
-        private Texture2D pixelTexture;
-        private GraphicsDevice _graphicsDevice;
 
         public Rectangle _hitbox;
         public Rectangle Hitbox => _hitbox;
@@ -84,7 +84,7 @@ namespace platformGame
             // Determina o efeito de espelhamento horizontal com base na direção do movimento
             SpriteEffects flipEffect = _movingRight ? SpriteEffects.FlipHorizontally : SpriteEffects.None;
 
-            spriteBatch.Draw(pixelTexture, _hitbox, Color.Red);
+            // spriteBatch.Draw(pixelTexture, _hitbox, Color.Red);
 
             Rectangle sourceRectangle = new Rectangle(_currentFrame * _frameWidth, 0, _frameWidth, _frameHeight);
             spriteBatch.Draw(_sprite, _position, sourceRectangle, Color.White, 0, Vector2.Zero, 1.0f, flipEffect, 0);
